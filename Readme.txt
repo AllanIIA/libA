@@ -1,3 +1,3 @@
-libA - 1
+libA - 2
 Dependance :
- - libAA - 1
+ - libAA - 2
