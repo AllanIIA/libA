@@ -1,0 +1,3 @@
+[submodule "LibAA"]
+	path = LibAA
+	url = git@github.com:AllanIIA/LibAA.git
